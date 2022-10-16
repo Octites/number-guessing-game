@@ -1,4 +1,4 @@
-# Lucas Chang
+# Linzete
 # This program is a number guessing game. 
 def main(): # Main function
     running = 'y' # While this condition is met the commands in the block (the game) executes
